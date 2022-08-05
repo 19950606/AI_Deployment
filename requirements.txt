@@ -94,5 +94,14 @@ webencodings==0.5.1
 Werkzeug==1.0.1
 widgetsnbextension==3.5.1
 wrapt==1.12.1
-xgboost==1.2.1
 yarg==0.1.9
+-f https://download.pytorch.org/whl/torch_stable.html
+-f https://download.pytorch.org/whl/torch_stable.html
+
+
+
+
+
+
+
+
