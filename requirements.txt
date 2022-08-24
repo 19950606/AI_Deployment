@@ -1,5 +1,4 @@
-Flask==1.1.2
-Jinja2==3.0.3
+Flask==2.0.3
 numpy==1.21.4
 pandas==1.4.1
 Pillow==9.2.0
