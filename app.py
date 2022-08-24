@@ -2,6 +2,7 @@
 
 from flask import Flask, render_template, request, Markup
 import numpy as np
+from markupsafe import escape
 import pandas as pd
 from utils.disease import disease_dic
 import requests
